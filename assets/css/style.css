@@ -12,14 +12,14 @@ textarea{
   border-left: 1px solid black;
   padding: 10px;
 }
-.text-box textarea {
+.textSection textarea {
   border: none;
   top: 10px;
   position: relative;
   resize: none;
 }
 
-.text-box textarea:focus {
+.textSection textarea:focus {
   border: none;
   outline: none;
 }
@@ -99,5 +99,5 @@ padding: 11px 0 0 0;
   font-size: 20px;
   transition: all .3s ease-in-out;
   color: rgb(34, 34, 34);
-  
+
   };
