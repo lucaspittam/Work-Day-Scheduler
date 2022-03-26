@@ -10,6 +10,4 @@ With existing stater code, I created functionality using JavaScript. Added the a
 Live Application link: https://lucaspittam.github.io/Work-Day-Scheduler/
 
 
-The GitHub link: https://github.com/lucaspittam/Work-Day-Scheduler
-
 Screenshot:![Screen Shot 2022-03-26 at 12 00 56 PM](https://user-images.githubusercontent.com/98059989/160247606-9698224b-1747-46ba-b641-9b765cf06224.png)
