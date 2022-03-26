@@ -24,15 +24,15 @@ textarea{
   outline: none;
 }
 
-.past-textarea:focus {
+.pastTextArea:focus {
   background-color: #d3d3d3;
 }
 
-.present-textarea:focus {
+.presentTextArea:focus {
   background-color: #ff6961;
 }
 
-.future-textarea:focus {
+.futureTextArea:focus {
   background-color: #77dd77;
 }
 
@@ -48,7 +48,7 @@ textarea{
   white-space: pre-wrap;
 }
 
-.time-block{
+.timeSection{
   text-align: center;
   border-radius: 15px;
 }
