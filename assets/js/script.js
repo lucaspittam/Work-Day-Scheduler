@@ -71,7 +71,6 @@ $(".saveButton").on("click", function() {
             }
         }
     }
-    
     if (newInfo === true) {
         events.push({time: eventTime, text: eventInfo});
     }
@@ -92,7 +91,6 @@ checkEvents = (eventElement) => {
        
         sectionTime[0] += 12;
     }
-
     var colorBox = $(eventElement).siblings(".textSection");
     colorBox.removeClass("past present future");
     if (moment().isAfter(moment().hour(sectionTime[0]))) {
@@ -102,7 +100,7 @@ checkEvents = (eventElement) => {
         //console.log("present");
         colorBox.addClass("present");
     }   else if (moment().isBefore(moment().hour(sectionTime[0]))) {
-        //console.log(" future");
+        //console.log("future");
         colorBox.addClass("future");
     }
 };

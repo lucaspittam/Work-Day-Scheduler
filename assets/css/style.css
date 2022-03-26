@@ -36,6 +36,9 @@ textarea{
   background-color: #77dd77;
 }
 
+p {
+  text-align: center;
+}
 .jumbotron {
   text-align: center;
   background-color: transparent;
@@ -94,10 +97,14 @@ padding: 11px 0 0 0;
   background-color: #06AED5;
   color: white;
 }
+/* center the lock button */
+.saveButton span {
+  padding: 30px 30px 30px 22px;
+  }
 
-.saveButton i:hover {
+.saveButton :hover {
   font-size: 20px;
   transition: all .3s ease-in-out;
   color: rgb(34, 34, 34);
-
   };
+
