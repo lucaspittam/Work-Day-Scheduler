@@ -29,11 +29,11 @@ textarea{
 }
 
 .presentTextArea:focus {
-  background-color: #ff6961;
+  background-color: #f7544b;
 }
 
 .futureTextArea:focus {
-  background-color: #77dd77;
+  background-color: #54c254;
 }
 
 p {
@@ -81,12 +81,12 @@ padding: 11px 0 0 0;
 }
 
 .present {
-  background-color: #ff6961;
+  background-color: #f7544b;
   color: rgb(34, 34, 34);
 }
 
 .future {
-  background-color: #77dd77;
+  background-color: #54c254;
   color: rgb(34, 34, 34);
 }
 
@@ -94,7 +94,7 @@ padding: 11px 0 0 0;
   border-left: 1px solid black;
   border-top-right-radius: 15px;
   border-bottom-right-radius: 15px;
-  background-color: #06AED5;
+  background-color: #0a8eac;
   color: white;
 }
 /* center the lock button */
