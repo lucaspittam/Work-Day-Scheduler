@@ -7,7 +7,8 @@ HTML, CSS, Js
 With existing stater code, I created functionality using JavaScript. Added the ability to add, edit and delete tasks on the planner, also colour coded time slots for the time of day to show surrent time.
 
 
-Live Application link: https://lucaspitttam.github.io/Work-Day-Scheduler/
+Live Application link: https://lucaspittam.github.io/Work-Day-Scheduler/
+
 
 The GitHub link: https://github.com/lucaspittam/Work-Day-Scheduler
 
